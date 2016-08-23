@@ -2,14 +2,12 @@
 
 Go語言聖經 [《The Go Programming Language》](http://gopl.io) 中文版本，僅供學習交流之用。
 
-- 項目主頁：http://github.com/golang-china/gopl-zh
-- 項目進度：http://github.com/golang-china/gopl-zh/blob/master/progress.md
-- 參與人員：http://github.com/golang-china/gopl-zh/blob/master/CONTRIBUTORS.md
-- 離線版本：http://github.com/golang-china/gopl-zh/archive/gh-pages.zip
-- 在線預覽：http://golang-china.github.io/gopl-zh
-- 原版官網：http://gopl.io
+[![](cover_middle.jpg)](https://github.com/golang-china/gopl-zh)
 
-[![](cover_small.jpg)](https://github.com/golang-china/gopl-zh)
+- 在線版本：http://golang-china.github.io/gopl-zh
+- 離線版本：http://github.com/golang-china/gopl-zh/archive/gh-pages.zip
+- 項目主頁：http://github.com/golang-china/gopl-zh
+- 原版官網：http://gopl.io
 
 
 ### 從源文件構建
@@ -28,8 +26,6 @@ Go語言聖經 [《The Go Programming Language》](http://gopl.io) 中文版本�
 - `make zh2tw` 或 `go run zh2tw.go . "\.md$" zh2tw`，轉繁體。
 - `make tw2zh` 或 `go run zh2tw.go . "\.md$" tw2zh`，轉簡體。
 
-如果是使用簡體中文的用戶，可在執行上述命令前運行`make tw2zh`命令，將繁體中文轉換爲簡體中文。
-
 ### Markdown 格式預覽
 
 - [SUMMARY-github.md](SUMMARY-github.md)
@@ -43,4 +39,3 @@ Go語言聖經 [《The Go Programming Language》](http://gopl.io) 中文版本�
 嚴禁任何商業行爲使用或引用該文檔的全部或部分內容！
 
 歡迎大家提供建議！
-

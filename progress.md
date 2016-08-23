@@ -32,17 +32,17 @@
  - [x] 4.4 Structs
  - [x] 4.5 JSON
  - [x] 4.6 Text and HTML Templates
-- [ ] Chapter 5: Functions
- - [ ] 5.1 Function Declarations
- - [ ] 5.2 Recursion
- - [ ] 5.3 Multiple Return Values
- - [ ] 5.4 Errors
- - [ ] 5.5 Function Values
- - [ ] 5.6 Anonymous Functions
- - [ ] 5.7 Variadic Functions
- - [ ] 5.8 Deferred Function Calls
- - [ ] 5.9 Panic
- - [ ] 5.10 Recover
+- [x] Chapter 5: Functions
+ - [x] 5.1 Function Declarations
+ - [x] 5.2 Recursion
+ - [x] 5.3 Multiple Return Values
+ - [x] 5.4 Errors
+ - [x] 5.5 Function Values
+ - [x] 5.6 Anonymous Functions
+ - [x] 5.7 Variadic Functions
+ - [x] 5.8 Deferred Function Calls
+ - [x] 5.9 Panic
+ - [x] 5.10 Recover
 - [x] Chapter 6: Methods
  - [x] 6.1 Method Declarations
  - [x] 6.2 Methods with a Pointer Receiver
@@ -52,17 +52,17 @@
  - [x] 6.6 Encapsulation
 - [x] Chapter 7: Interfaces
  - [x] 7.1 Interfaces as Contracts
- - [ ] 7.2 Interface Types
- - [ ] 7.3 Interface Satisfaction
- - [ ] 7.4 Parsing Flags with flag.Value
- - [ ] 7.5 Interface Values
- - [ ] 7.6 Sorting with sort.Interface
- - [ ] 7.7 The http.Handler Interface
- - [ ] 7.8 The error Interface
- - [ ] 7.9 Example: Expression Evaluator
- - [ ] 7.10 Type Assertions
- - [ ] 7.11 Discriminating Errors with Type Assertions
- - [ ] 7.12 Querying Behaviors with Interface Type Assertions
+ - [x] 7.2 Interface Types
+ - [x] 7.3 Interface Satisfaction
+ - [x] 7.4 Parsing Flags with flag.Value
+ - [x] 7.5 Interface Values
+ - [x] 7.6 Sorting with sort.Interface
+ - [x] 7.7 The http.Handler Interface
+ - [x] 7.8 The error Interface
+ - [x] 7.9 Example: Expression Evaluator
+ - [x] 7.10 Type Assertions
+ - [x] 7.11 Discriminating Errors with Type Assertions
+ - [x] 7.12 Querying Behaviors with Interface Type Assertions
  - [ ] 7.13 Type Switches
  - [ ] 7.14 Example: Token-Based XML Decoding
  - [ ] 7.15 A Few Words of Advice
@@ -70,22 +70,22 @@
  - [x] 8.1 Goroutines
  - [x] 8.2 Example: Concurrent Clock Server
  - [x] 8.3 Example: Concu rent Echo Server
- - [ ] 8.4 Channels
- - [ ] 8.5 Looping in Parallel
+ - [x] 8.4 Channels
+ - [x] 8.5 Looping in Parallel
  - [x] 8.6 Example: Concurrent Web Crawler
  - [x] 8.7 Multiplexing with select
  - [x] 8.8 Example: Concurrent Directory Traversal
  - [x] 8.9 Cancellation
  - [x] 8.10 Example: Chat Server
-- [ ] Chapter 9: Concurrency with Shared Variables
- - [ ] 9.1 Race Conditions
- - [ ] 9.2 Mutual Exclusion: sync.Mutex
- - [ ] 9.3 Read/Write Mutexes: sync.RWMutex
- - [ ] 9.4 Memory Synchronization
- - [ ] 9.5 Lazy Initialization: sync.Once
- - [ ] 9.6 The Race Detector
- - [ ] 9.7 Example: Concurrent Non-Blocking Cache
- - [ ] 9.8 Goroutines and Threads
+- [x] Chapter 9: Concurrency with Shared Variables
+ - [x] 9.1 Race Conditions
+ - [x] 9.2 Mutual Exclusion: sync.Mutex
+ - [x] 9.3 Read/Write Mutexes: sync.RWMutex
+ - [x] 9.4 Memory Synchronization
+ - [x] 9.5 Lazy Initialization: sync.Once
+ - [x] 9.6 The Race Detector
+ - [x] 9.7 Example: Concurrent Non-Blocking Cache
+ - [x] 9.8 Goroutines and Threads
 - [x] Chapter 10: Packages and the Go Tool
  - [x] 10.1 Introduction
  - [x] 10.2 Import Paths
@@ -104,18 +104,16 @@
 - [x] Chapter 12: Reflection
  - [x] 12.1 Why Reflection?
  - [x] 12.2 reflect.Type and reflect.Value
- - [ ] 12.3 Display, a Recursive Value Printer
- - [ ] 12.4 Example: Encoding S-Expressions
- - [ ] 12.5 Setting Variables with reflect.Value
- - [ ] 12.6 Example: Decoding S-Expressions
- - [ ] 12.7 Accessing Struct Field Tags
- - [ ] 12.8 Displaying the Methods of a Type
- - [ ] 12.9 A Word of Caution
+ - [x] 12.3 Display, a Recursive Value Printer
+ - [x] 12.4 Example: Encoding S-Expressions
+ - [x] 12.5 Setting Variables with reflect.Value
+ - [x] 12.6 Example: Decoding S-Expressions
+ - [x] 12.7 Accessing Struct Field Tags
+ - [x] 12.8 Displaying the Methods of a Type
+ - [x] 12.9 A Word of Caution
 - [x] Chapter 13: Low-Level Programming
  - [x] 13.1 unsafe.Sizeof, Alignof, and Offsetof
  - [x] 13.2 unsafe.Pointer
  - [x] 13.3 Example: Deep Equivalence
  - [x] 13.4 Calling C Code with cgo
  - [x] 13.5 Another Word of Caution
-- [ ] Errata
-
